@@ -8,4 +8,3 @@ print("sum:-",num + num1)
 
 print(type(num))
 
-print("My name is rishab");
